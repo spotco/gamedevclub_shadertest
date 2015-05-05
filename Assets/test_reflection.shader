@@ -24,6 +24,7 @@
 			float fade_alpha;
 		};
 		
+		//http://docs.unity3d.com/Manual/SL-VertexFragmentShaderExamples.html
 		//http://docs.unity3d.com/462/Documentation/Manual/SL-BuiltinValues.html
 		//http://wiki.unity3d.com/index.php/Shader_Code
 		vertexOutput vert(vertexInput input) 
